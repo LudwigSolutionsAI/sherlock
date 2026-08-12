@@ -18,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -34,11 +33,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -50,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
