@@ -7,14 +7,15 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
@@ -49,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
