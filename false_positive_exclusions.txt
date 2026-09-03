@@ -7,8 +7,6 @@ Bandcamp
 Championat
 Chatujme.cz
 Codolio
-Cults3D
-CyberDefenders
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,22 +17,21 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
