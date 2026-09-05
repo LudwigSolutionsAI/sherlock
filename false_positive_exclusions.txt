@@ -6,7 +6,6 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -17,11 +16,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Minecraft
 ObservableHQ
+Odysee
 PCGamer
-Pornhub
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -31,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -46,4 +43,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
