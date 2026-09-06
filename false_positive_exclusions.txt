@@ -20,6 +20,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -29,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
