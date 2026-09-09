@@ -12,10 +12,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -23,7 +26,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
