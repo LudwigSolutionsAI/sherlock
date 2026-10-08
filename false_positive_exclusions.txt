@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,7 +20,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -50,5 +49,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
