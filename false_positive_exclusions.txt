@@ -37,7 +37,6 @@ SlideShare
 Splice
 Spotify
 Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate
