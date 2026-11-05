@@ -1,10 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,6 +23,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -49,5 +49,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
-xHamster
