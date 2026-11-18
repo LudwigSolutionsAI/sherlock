@@ -1,19 +1,16 @@
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-CGTrader
 Championat
 Chatujme.cz
 Codolio
-Cplusplus
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 Linktree
@@ -31,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
